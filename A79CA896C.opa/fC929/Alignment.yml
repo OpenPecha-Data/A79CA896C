@@ -1,0 +1,58 @@
+segment_sources:
+  IBEE57673:
+    type: origin_type
+    relation: translation
+    language: en
+  I435ABD56:
+    type: origin_type
+    relation: translation
+    language: es
+  I5864BDDE:
+    type: origin_type
+    relation: translation
+    language: fr
+  ICED4CA9D:
+    type: origin_type
+    relation: translation
+    language: nl
+  I94496570:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  7164f90dcf2d49549feefb068e438c15:
+    IBEE57673: 899504f0348f48709c12420d91f71a2b
+    I435ABD56: d97fbdf89a414dd58dae90fb4710b53b
+    I5864BDDE: aa4ccf01488b4cde8fe969cf2a19e83e
+    ICED4CA9D: 014e40d7dc6d4e10949cccea9ad5dcbf
+    I94496570: 28e2650b13d44559b156a337677aa1a6
+  b9f2f3062bcf4809b83e5a6d1e31c927:
+    IBEE57673: 8b82a339b74d4749b410da95d41b2d89
+    I435ABD56: d63398c8346c451b9e207ad73f1f048c
+    I5864BDDE: 6cc1ba0a5da24ea0a7641764eed50ecb
+    ICED4CA9D: 654620c3c26b47c39d58a6d36929a185
+    I94496570: 6b73884e6f1e48de8872dd92c030ce50
+  4727a22fc5e842a7a9bb7cd139d991d4:
+    IBEE57673: f7ad91b86d6e4e4693c5fc018bea9226
+    I435ABD56: 0c0c1eef731e47e283d60b41f8280da9
+    I5864BDDE: 89beb8fa059640a8b7ae91357c6c6248
+    ICED4CA9D: 35f6a9a6c0b0401390cef4b357e48820
+    I94496570: 1d387955ee71423b81fbceb6f932ac6b
+  32430337467d42cf8c89392bdee4f6b8:
+    IBEE57673: 99b03b6423014822a7bffa5893dd732b
+    I435ABD56: efd2318fc05f4c6984e1c9b1e25d8361
+    I5864BDDE: 163f4dd271514eb09cda3ae59aa74bb3
+    ICED4CA9D: 25ff44666b88455e9194b2b38bcfaa53
+    I94496570: 5810c710a51b4c268ce44d2bb7246d42
+  91b2cdf0533741fd9a9939bc8e399cd3:
+    IBEE57673: 83331d6bcee34d85830130848ba1f10a
+    I435ABD56: e75e71b719164b2086daaff0bba8ceed
+    I5864BDDE: c1084c1b506e4c3795f84c2d4086c6d2
+    ICED4CA9D: b6119272bac84963a607871171f1e1c3
+    I94496570: 8b3ff4b2ecf44266ac672cbe87a8ef8d
+  925d7fc64dc84e9e9486958036758cac:
+    IBEE57673: dcf68f109e58447cb783aa5c6b394ad4
+    I435ABD56: ee227bd4e7fc4588aca07acba23f5a98
+    I5864BDDE: 61f508a4d060436590d228efb097fdeb
+    ICED4CA9D: 210db41d377641b4b19a8db946fc53e8
+    I94496570: 86ec1a6704434ce6b4243bd16afc4e29

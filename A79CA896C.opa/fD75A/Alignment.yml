@@ -1,0 +1,19 @@
+segment_sources:
+  IBEE57673:
+    type: origin_type
+    relation: translation
+    language: en
+  I94496570:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8569050b9df34512bcecd7ab41fbdbf9:
+    IBEE57673: 6c3c2c94fcd74ddfbed5d4b22b6619a9
+    I94496570: 1b1e95ffe92a4db1bc8cd76f2befe39f
+  1f6f7685c09a41ecbfe679536d11aa6a:
+    IBEE57673: 66d4575d34f04774b8eae1079b1e422f
+    I94496570: a30fe3f8f563412588f03d522793808f
+  c2d321d462d54e3184b6d4039b8563b3:
+    IBEE57673: 35b480bfa2554519929b93123c028614
+    I94496570: 9725aebf35de46d58428ca0bc48797cc
